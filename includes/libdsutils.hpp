@@ -2,8 +2,8 @@
 // Created by Nick on 11/3/20.
 //
 
-#ifndef CPP_DATASTRUCTURES_LIBERR_H
-#define CPP_DATASTRUCTURES_LIBERR_H
+#ifndef CPP_DATASTRUCTURES_LIBDSUTILS_HPP
+#define CPP_DATASTRUCTURES_LIBDSUTILS_HPP
 
 enum DSReturn {
     kDSReturnError,
@@ -13,4 +13,4 @@ enum DSReturn {
 
 typedef DSReturn DSReturn;
 
-#endif //CPP_DATASTRUCTURES_LIBERR_H
+#endif //CPP_DATASTRUCTURES_LIBDSUTILS_HPP
